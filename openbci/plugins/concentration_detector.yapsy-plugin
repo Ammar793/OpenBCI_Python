@@ -1,0 +1,9 @@
+
+[Core]
+Name = concentration_detector
+Module = concentration_detector
+
+[Documentation]
+Author = Various
+Version = 0.1
+Description = Writes to file

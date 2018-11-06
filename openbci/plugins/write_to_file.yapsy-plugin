@@ -1,0 +1,9 @@
+
+[Core]
+Name = write_to_file
+Module = write_to_file
+
+[Documentation]
+Author = Various
+Version = 0.1
+Description = Writes to file
